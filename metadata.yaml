@@ -1,5 +1,8 @@
 _repo: The-Querist--13-Containing-Several-Queries-Proposed-to-the-Consideration-of-the-Public_4543
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Berkeley, George
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1497
     wikipedia: http://en.wikipedia.org/wiki/George_Berkeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4543#The-Querist--13-Containing-Several-Queries-Proposed-to-the-Consideration-of-the-Public
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
